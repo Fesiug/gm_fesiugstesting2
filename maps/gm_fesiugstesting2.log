@@ -1,0 +1,1771 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17144 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 34 texinfos to 18
+Reduced 11 texdatas to 9 (294 bytes to 185)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+ 564 portalclusters
+1367 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2971 visible clusters (0.98%)
+Total clusters visible: 301727
+Average clusters visible: 534
+Building PAS...
+Average clusters audible: 563
+visdatasize:84255  compressed from 81216
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material GM_CONSTRUCT/WATER_13_BENEATH doesn't have a $bottommaterial
+error: material GM_CONSTRUCT/WATER_13_BENEATH doesn't have a $bottommaterial
+error: material GM_CONSTRUCT/WATER_13_BENEATH doesn't have a $bottommaterial
+error: material GM_CONSTRUCT/WATER_13_BENEATH doesn't have a $bottommaterial
+error: material GM_CONSTRUCT/WATER_13_BENEATH doesn't have a $bottommaterial
+error: material GM_CONSTRUCT/WATER_13_BENEATH doesn't have a $bottommaterial
+error: material GM_CONSTRUCT/WATER_13_BENEATH doesn't have a $bottommaterial
+error: material GM_CONSTRUCT/WATER_13_BENEATH doesn't have a $bottommaterial
+done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19584 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 37 texinfos to 19
+Reduced 11 texdatas to 9 (294 bytes to 185)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+ 573 portalclusters
+1380 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 407 visible clusters (0.13%)
+Total clusters visible: 307838
+Average clusters visible: 537
+Building PAS...
+Average clusters audible: 572
+visdatasize:86902  compressed from 82512
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (20272 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 37 texinfos to 18
+Reduced 11 texdatas to 9 (294 bytes to 185)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+ 582 portalclusters
+1408 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 433 visible clusters (0.14%)
+Total clusters visible: 316919
+Average clusters visible: 544
+Building PAS...
+Average clusters audible: 581
+visdatasize:89287  compressed from 93120
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (18192 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 34 texinfos to 18
+Reduced 11 texdatas to 9 (294 bytes to 185)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+ 539 portalclusters
+1265 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 340 visible clusters (0.12%)
+Total clusters visible: 274851
+Average clusters visible: 509
+Building PAS...
+Average clusters audible: 538
+visdatasize:77215  compressed from 77616
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (18192 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 34 texinfos to 18
+Reduced 11 texdatas to 9 (294 bytes to 185)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+ 539 portalclusters
+1265 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 340 visible clusters (0.12%)
+Total clusters visible: 274851
+Average clusters visible: 509
+Building PAS...
+Average clusters audible: 538
+visdatasize:77215  compressed from 77616
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (24975 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 47 texinfos to 32
+Reduced 16 texdatas to 15 (378 bytes to 321)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+ 578 portalclusters
+1368 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 705 visible clusters (0.23%)
+Total clusters visible: 309451
+Average clusters visible: 535
+Building PAS...
+Average clusters audible: 576
+visdatasize:88207  compressed from 92480
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+PREP OK
+3377 faces
+15380181 square feet [2214746112.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3377 patches before subdivision
+237885 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 38407859, max 1392
+transfer lists: 293.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3413, 3201, 2888)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1551, 1401, 1151)
+Build Patch/Sample Hash Table(s).....Done<0.1193 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                 71/16384         852/196608   ( 0.4%) 
+brushsides             467/163840       3736/1310720  ( 0.3%) 
+planes                 192/65536        3840/1310720  ( 0.3%) 
+vertexes              3609/65536       43308/786432   ( 5.5%) 
+nodes                 1206/65536       38592/2097152  ( 1.8%) 
+texinfos                32/12288        2304/884736   ( 0.3%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3377/65536      189112/3670016  ( 5.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              158/65536        8848/3670016  ( 0.2%) 
+leaves                1208/65536       38656/2097152  ( 1.8%) 
+leaffaces             4293/65536        8586/131072   ( 6.6%) 
+leafbrushes           1018/65536        2036/131072   ( 1.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            15286/512000      61144/2048000  ( 3.0%) 
+edges                 7882/256000      31528/1024000  ( 3.1%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             97/32768         970/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1590/65536        3180/131072   ( 2.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     6614468/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       88207/16777216 ( 0.5%) 
+entdata               [variable]        1699/393216   ( 0.4%) 
+LDR ambient table     1208/65536        4832/262144   ( 1.8%) 
+HDR ambient table     1208/65536        4832/262144   ( 1.8%) 
+LDR leaf ambient       750/65536       21000/1835008  ( 1.1%) 
+HDR leaf ambient      1208/65536       33824/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       25218/0        ( 0.0%) 
+physics               [variable]       24975/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7902
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+37 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (24975 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 47 texinfos to 32
+Reduced 16 texdatas to 15 (378 bytes to 321)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+ 578 portalclusters
+1368 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 705 visible clusters (0.23%)
+Total clusters visible: 309451
+Average clusters visible: 535
+Building PAS...
+Average clusters audible: 576
+visdatasize:88207  compressed from 92480
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+PREP OK
+3377 faces
+15380181 square feet [2214746112.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3377 patches before subdivision
+237885 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 38407859, max 1392
+transfer lists: 293.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(229027, 217288, 205699)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(32796, 29954, 27149)
+Build Patch/Sample Hash Table(s).....Done<0.1302 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                 71/16384         852/196608   ( 0.4%) 
+brushsides             467/163840       3736/1310720  ( 0.3%) 
+planes                 192/65536        3840/1310720  ( 0.3%) 
+vertexes              3609/65536       43308/786432   ( 5.5%) 
+nodes                 1206/65536       38592/2097152  ( 1.8%) 
+texinfos                32/12288        2304/884736   ( 0.3%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3377/65536      189112/3670016  ( 5.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              158/65536        8848/3670016  ( 0.2%) 
+leaves                1208/65536       38656/2097152  ( 1.8%) 
+leaffaces             4293/65536        8586/131072   ( 6.6%) 
+leafbrushes           1018/65536        2036/131072   ( 1.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            15286/512000      61144/2048000  ( 3.0%) 
+edges                 7882/256000      31528/1024000  ( 3.1%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             97/32768         970/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1590/65536        3180/131072   ( 2.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     6614468/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       88207/16777216 ( 0.5%) 
+entdata               [variable]        1989/393216   ( 0.5%) 
+LDR ambient table     1208/65536        4832/262144   ( 1.8%) 
+HDR ambient table     1208/65536        4832/262144   ( 1.8%) 
+LDR leaf ambient      8618/65536      241304/1835008  (13.2%) 
+HDR leaf ambient      1208/65536       33824/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       25218/0        ( 0.0%) 
+physics               [variable]       24975/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7902
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+42 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material GM_CONSTRUCT/WATER_13_BENEATH doesn't have a $bottommaterial
+error: material GM_CONSTRUCT/WATER_13_BENEATH doesn't have a $bottommaterial
+error: material GM_CONSTRUCT/WATER_13_BENEATH doesn't have a $bottommaterial
+error: material GM_CONSTRUCT/WATER_13_BENEATH doesn't have a $bottommaterial
+done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25695 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 50 texinfos to 34
+Reduced 16 texdatas to 15 (378 bytes to 321)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+ 579 portalclusters
+1370 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 705 visible clusters (0.23%)
+Total clusters visible: 310470
+Average clusters visible: 536
+Building PAS...
+Average clusters audible: 577
+visdatasize:88364  compressed from 92640
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+PREP OK
+3362 faces
+1 degenerate faces
+15383595 square feet [2215237632.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3361 patches before subdivision
+236819 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 38035272, max 1373
+transfer lists: 290.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(237089, 225063, 213007)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(36125, 33047, 29864)
+Build Patch/Sample Hash Table(s).....Done<0.1370 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                 73/16384         876/196608   ( 0.4%) 
+brushsides             481/163840       3848/1310720  ( 0.3%) 
+planes                 192/65536        3840/1310720  ( 0.3%) 
+vertexes              3568/65536       42816/786432   ( 5.4%) 
+nodes                 1207/65536       38624/2097152  ( 1.8%) 
+texinfos                34/12288        2448/884736   ( 0.3%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3362/65536      188272/3670016  ( 5.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              159/65536        8904/3670016  ( 0.2%) 
+leaves                1209/65536       38688/2097152  ( 1.8%) 
+leaffaces             4474/65536        8948/131072   ( 6.8%) 
+leafbrushes           1022/65536        2044/131072   ( 1.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            15242/512000      60968/2048000  ( 3.0%) 
+edges                 7805/256000      31220/1024000  ( 3.0%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             95/32768         950/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1518/65536        3036/131072   ( 2.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     6613332/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       88364/16777216 ( 0.5%) 
+entdata               [variable]        1990/393216   ( 0.5%) 
+LDR ambient table     1209/65536        4836/262144   ( 1.8%) 
+HDR ambient table     1209/65536        4836/262144   ( 1.8%) 
+LDR leaf ambient      8701/65536      243628/1835008  (13.3%) 
+HDR leaf ambient      1209/65536       33852/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       25218/0        ( 0.0%) 
+physics               [variable]       25695/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7884
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+41 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40338 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 66 texinfos to 48
+Reduced 18 texdatas to 16 (448 bytes to 339)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+ 687 portalclusters
+1740 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2685 visible clusters (0.67%)
+Total clusters visible: 402896
+Average clusters visible: 586
+Building PAS...
+Average clusters audible: 686
+visdatasize:122152  compressed from 120912
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+PREP OK
+4161 faces
+15486030 square feet [2229988352.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4161 patches before subdivision
+302825 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 50849037, max 1573
+transfer lists: 387.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(370612, 351682, 333990)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(54352, 49658, 45181)
+Build Patch/Sample Hash Table(s).....Done<0.2630 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                112/16384        1344/196608   ( 0.7%) 
+brushsides             756/163840       6048/1310720  ( 0.5%) 
+planes                 342/65536        6840/1310720  ( 0.5%) 
+vertexes              4667/65536       56004/786432   ( 7.1%) 
+nodes                 1380/65536       44160/2097152  ( 2.1%) 
+texinfos                48/12288        3456/884736   ( 0.4%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4161/65536      233016/3670016  ( 6.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              299/65536       16744/3670016  ( 0.5%) 
+leaves                1382/65536       44224/2097152  ( 2.1%) 
+leaffaces             5193/65536       10386/131072   ( 7.9%) 
+leafbrushes           1127/65536        2254/131072   ( 1.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            19620/512000      78480/2048000  ( 3.8%) 
+edges                10059/256000      40236/1024000  ( 3.9%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            269/32768        2690/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3699/65536        7398/131072   ( 5.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     8259476/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      122152/16777216 ( 0.7%) 
+entdata               [variable]        1990/393216   ( 0.5%) 
+LDR ambient table     1382/65536        5528/262144   ( 2.1%) 
+HDR ambient table     1382/65536        5528/262144   ( 2.1%) 
+LDR leaf ambient     10015/65536      280420/1835008  (15.3%) 
+HDR leaf ambient      1382/65536       38696/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       50402/0        ( 0.0%) 
+physics               [variable]       40338/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10104
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+52 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (33554 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 38 texinfos to 27
+Reduced 12 texdatas to 10 (304 bytes to 195)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+ 647 portalclusters
+1643 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1547 visible clusters (0.43%)
+Total clusters visible: 363246
+Average clusters visible: 561
+Building PAS...
+Average clusters audible: 647
+visdatasize:109084  compressed from 113872
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+PREP OK
+4063 faces
+15503143 square feet [2232452608.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4063 patches before subdivision
+299019 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 49221341, max 1587
+transfer lists: 375.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(335859, 325777, 321666)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(47420, 45194, 44245)
+Build Patch/Sample Hash Table(s).....Done<0.2811 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                 92/16384        1104/196608   ( 0.6%) 
+brushsides             631/163840       5048/1310720  ( 0.4%) 
+planes                 286/65536        5720/1310720  ( 0.4%) 
+vertexes              4510/65536       54120/786432   ( 6.9%) 
+nodes                 1303/65536       41696/2097152  ( 2.0%) 
+texinfos                27/12288        1944/884736   ( 0.2%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4063/65536      227528/3670016  ( 6.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              243/65536       13608/3670016  ( 0.4%) 
+leaves                1305/65536       41760/2097152  ( 2.0%) 
+leaffaces             5080/65536       10160/131072   ( 7.8%) 
+leafbrushes           1070/65536        2140/131072   ( 1.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            18876/512000      75504/2048000  ( 3.7%) 
+edges                 9649/256000      38596/1024000  ( 3.8%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            250/32768        2500/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3453/65536        6906/131072   ( 5.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     8239780/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      109084/16777216 ( 0.7%) 
+entdata               [variable]        2305/393216   ( 0.6%) 
+LDR ambient table     1305/65536        5220/262144   ( 2.0%) 
+HDR ambient table     1305/65536        5220/262144   ( 2.0%) 
+LDR leaf ambient      9659/65536      270452/1835008  (14.7%) 
+HDR leaf ambient      1305/65536       36540/1835008  ( 2.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       50402/0        ( 0.0%) 
+physics               [variable]       33554/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 9780
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+45 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38608 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 74 texinfos to 50
+Reduced 13 texdatas to 10 (359 bytes to 195)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+PREP OK
+5211 faces
+23038510 square feet [3317545472.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5211 patches before subdivision
+304509 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38608 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 74 texinfos to 50
+Reduced 13 texdatas to 10 (359 bytes to 195)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+PREP OK
+5211 faces
+23038510 square feet [3317545472.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5211 patches before subdivision
+304509 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 50727174, max 1607
+transfer lists: 387.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(335967, 325669, 321005)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(47586, 45296, 44269)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5573, 5042, 4778)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(917, 801, 741)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(155, 126, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(30, 23, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(6, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2133 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                105/16384        1260/196608   ( 0.6%) 
+brushsides             730/163840       5840/1310720  ( 0.4%) 
+planes                 366/65536        7320/1310720  ( 0.6%) 
+vertexes              5510/65536       66120/786432   ( 8.4%) 
+nodes                 2069/65536       66208/2097152  ( 3.2%) 
+texinfos                50/12288        3600/884736   ( 0.4%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5211/65536      291816/3670016  ( 8.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              273/65536       15288/3670016  ( 0.4%) 
+leaves                2071/65536       66272/2097152  ( 3.2%) 
+leaffaces             6112/65536       12224/131072   ( 9.3%) 
+leafbrushes           1939/65536        3878/131072   ( 3.0%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            23826/512000      95304/2048000  ( 4.7%) 
+edges                12147/256000      48588/1024000  ( 4.7%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            310/32768        3100/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4362/65536        8724/131072   ( 6.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     8530296/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]        2881/393216   ( 0.7%) 
+LDR ambient table     2071/65536        8284/262144   ( 3.2%) 
+HDR ambient table     2071/65536        8284/262144   ( 3.2%) 
+LDR leaf ambient     13781/65536      385868/1835008  (21.0%) 
+HDR leaf ambient      2071/65536       57988/1835008  ( 3.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149862/0        ( 0.0%) 
+physics               [variable]       38608/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 12314
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+3 minutes, 41 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+Water found with no water_lod_control entity, creating a default one.
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25541 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 23 texinfos to 12
+Reduced 12 texdatas to 9 (341 bytes to 177)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+ 585 portalclusters
+1390 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1205 visible clusters (0.40%)
+Total clusters visible: 298820
+Average clusters visible: 510
+Building PAS...
+Average clusters audible: 583
+visdatasize:90277  compressed from 93600
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+PREP OK
+4827 faces
+23005776 square feet [3312831744.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4827 patches before subdivision
+280807 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 44214341, max 1560
+transfer lists: 337.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(261046, 256135, 256135)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(34901, 33881, 33881)
+Build Patch/Sample Hash Table(s).....Done<0.1576 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                 71/16384         852/196608   ( 0.4%) 
+brushsides             487/163840       3896/1310720  ( 0.3%) 
+planes                 206/65536        4120/1310720  ( 0.3%) 
+vertexes              4895/65536       58740/786432   ( 7.5%) 
+nodes                 1971/65536       63072/2097152  ( 3.0%) 
+texinfos                12/12288         864/884736   ( 0.1%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4827/65536      270312/3670016  ( 7.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              137/65536        7672/3670016  ( 0.2%) 
+leaves                1973/65536       63136/2097152  ( 3.0%) 
+leaffaces             5892/65536       11784/131072   ( 9.0%) 
+leafbrushes           1886/65536        3772/131072   ( 2.9%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            21242/512000      84968/2048000  ( 4.1%) 
+edges                10761/256000      43044/1024000  ( 4.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            206/32768        2060/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2919/65536        5838/131072   ( 4.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     7714744/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       90277/16777216 ( 0.5%) 
+entdata               [variable]        2574/393216   ( 0.7%) 
+LDR ambient table     1973/65536        7892/262144   ( 3.0%) 
+HDR ambient table     1973/65536        7892/262144   ( 3.0%) 
+LDR leaf ambient     13009/65536      364252/1835008  (19.9%) 
+HDR leaf ambient      1973/65536       55244/1835008  ( 3.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149862/0        ( 0.0%) 
+physics               [variable]       25541/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11040
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+1 minute, 25 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_fesiugstesting2/gm_construct/grass-sand_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (52544 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 52 texinfos to 36
+Reduced 15 texdatas to 11 (447 bytes to 256)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+ 635 portalclusters
+1532 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4374 visible clusters (1.26%)
+Total clusters visible: 347667
+Average clusters visible: 547
+Building PAS...
+Average clusters audible: 632
+visdatasize:105471  compressed from 101600
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+PREP OK
+7377 faces
+23324026 square feet [3358659840.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7377 patches before subdivision
+534067 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 88621393, max 2853
+transfer lists: 676.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(690732, 681807, 635081)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(77644, 74716, 70805)
+Build Patch/Sample Hash Table(s).....Done<0.4255 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                139/16384        1668/196608   ( 0.8%) 
+brushsides             956/163840       7648/1310720  ( 0.6%) 
+planes                 410/65536        8200/1310720  ( 0.6%) 
+vertexes              8099/65536       97188/786432   (12.4%) 
+nodes                 2089/65536       66848/2097152  ( 3.2%) 
+texinfos                36/12288        2592/884736   ( 0.3%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7377/65536      413112/3670016  (11.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              377/65536       21112/3670016  ( 0.6%) 
+leaves                2091/65536       66912/2097152  ( 3.2%) 
+leaffaces            10441/65536       20882/131072   (15.9%) 
+leafbrushes           2058/65536        4116/131072   ( 3.1%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            34006/512000     136024/2048000  ( 6.6%) 
+edges                17400/256000      69600/1024000  ( 6.8%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            444/32768        4440/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6390/65536       12780/131072   ( 9.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]    16279056/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      105471/16777216 ( 0.6%) 
+entdata               [variable]        2574/393216   ( 0.7%) 
+LDR ambient table     2091/65536        8364/262144   ( 3.2%) 
+HDR ambient table     2091/65536        8364/262144   ( 3.2%) 
+LDR leaf ambient     13754/65536      385112/1835008  (21.0%) 
+HDR leaf ambient      2091/65536       58548/1835008  ( 3.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      150366/0        ( 0.0%) 
+physics               [variable]       52544/4194304  ( 1.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 17714
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+2 minutes, 5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_fesiugstesting2/gm_construct/grass-sand_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 68 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (70477 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 79 texinfos to 59
+Reduced 19 texdatas to 15 (534 bytes to 309)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+ 653 portalclusters
+1554 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 7712 visible clusters (2.12%)
+Total clusters visible: 363431
+Average clusters visible: 556
+Building PAS...
+Average clusters audible: 651
+visdatasize:111389  compressed from 114928
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+PREP OK
+9583 faces
+23715632 square feet [3415051008.00 square inches]
+4 Displacements
+61895 Square Feet [8912896.00 Square Inches]
+9583 patches before subdivision
+760883 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 167612369, max 3522
+transfer lists: 1278.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(949860, 933572, 851255)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(98724, 93748, 87656)
+Build Patch/Sample Hash Table(s).....Done<2.3309 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                188/16384        2256/196608   ( 1.1%) 
+brushsides            1287/163840      10296/1310720  ( 0.8%) 
+planes                 550/65536       11000/1310720  ( 0.8%) 
+vertexes             10951/65536      131412/786432   (16.7%) 
+nodes                 2133/65536       68256/2097152  ( 3.3%) 
+texinfos                59/12288        4248/884736   ( 0.5%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                4/0             704/0        ( 0.0%) 
+disp_verts             100/0            2000/0        ( 0.0%) 
+disp_tris              128/0             256/0        ( 0.0%) 
+disp_lmsamples       88776/0           88776/0        ( 0.0%) 
+faces                 9583/65536      536648/3670016  (14.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              547/65536       30632/3670016  ( 0.8%) 
+leaves                2135/65536       68320/2097152  ( 3.3%) 
+leaffaces            12823/65536       25646/131072   (19.6%) 
+leafbrushes           2194/65536        4388/131072   ( 3.3%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            44932/512000     179728/2048000  ( 8.8%) 
+edges                23054/256000      92216/1024000  ( 9.0%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            740/32768        7400/327680   ( 2.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10377/65536       20754/131072   (15.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]    22947156/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      111389/16777216 ( 0.7%) 
+entdata               [variable]        3083/393216   ( 0.8%) 
+LDR ambient table     2135/65536        8540/262144   ( 3.3%) 
+HDR ambient table     2135/65536        8540/262144   ( 3.3%) 
+LDR leaf ambient     14250/65536      399000/1835008  (21.7%) 
+HDR leaf ambient      2135/65536       59780/1835008  ( 3.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      150366/0        ( 0.0%) 
+physics               [variable]       70477/4194304  ( 1.7%) 
+physics terrain       [variable]         214/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 23548
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+4 minutes, 39 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_fesiugstesting2/gm_construct/grass-sand_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (66592 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 75 texinfos to 56
+Reduced 17 texdatas to 13 (485 bytes to 260)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+ 747 portalclusters
+1813 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4297 visible clusters (0.90%)
+Total clusters visible: 479026
+Average clusters visible: 641
+Building PAS...
+Average clusters audible: 665
+visdatasize:141125  compressed from 143424
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+PREP OK
+8063 faces
+23524796 square feet [3387570688.00 square inches]
+2 Displacements
+64625 Square Feet [9306112.00 Square Inches]
+8063 patches before subdivision
+596007 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 106285363, max 2556
+transfer lists: 810.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(758144, 735447, 687051)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(76094, 72263, 68289)
+Build Patch/Sample Hash Table(s).....Done<0.5766 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                175/16384        2100/196608   ( 1.1%) 
+brushsides            1195/163840       9560/1310720  ( 0.7%) 
+planes                 526/65536       10520/1310720  ( 0.8%) 
+vertexes              9102/65536      109224/786432   (13.9%) 
+nodes                 2264/65536       72448/2097152  ( 3.5%) 
+texinfos                56/12288        4032/884736   ( 0.5%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                2/0             352/0        ( 0.0%) 
+disp_verts              50/0            1000/0        ( 0.0%) 
+disp_tris               64/0             128/0        ( 0.0%) 
+disp_lmsamples       70560/0           70560/0        ( 0.0%) 
+faces                 8063/65536      451528/3670016  (12.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              552/65536       30912/3670016  ( 0.8%) 
+leaves                2266/65536       72512/2097152  ( 3.5%) 
+leaffaces            10331/65536       20662/131072   (15.8%) 
+leafbrushes           2146/65536        4292/131072   ( 3.3%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            38156/512000     152624/2048000  ( 7.5%) 
+edges                19617/256000      78468/1024000  ( 7.7%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            593/32768        5930/327680   ( 1.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8577/65536       17154/131072   (13.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]    18855772/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      141125/16777216 ( 0.8%) 
+entdata               [variable]        3087/393216   ( 0.8%) 
+LDR ambient table     2266/65536        9064/262144   ( 3.5%) 
+HDR ambient table     2266/65536        9064/262144   ( 3.5%) 
+LDR leaf ambient     15591/65536      436548/1835008  (23.8%) 
+HDR leaf ambient      2266/65536       63448/1835008  ( 3.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      150366/0        ( 0.0%) 
+physics               [variable]       66592/4194304  ( 1.6%) 
+physics terrain       [variable]         108/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 19792
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+2 minutes, 30 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+Water found with no water_lod_control entity, creating a default one.
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+Water found with no water_lod_control entity, creating a default one.
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_fesiugstesting2/gm_construct/grass-sand_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (64440 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 73 texinfos to 53
+Reduced 17 texdatas to 12 (485 bytes to 238)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.prt
+ 676 portalclusters
+1620 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3187 visible clusters (0.80%)
+Total clusters visible: 399855
+Average clusters visible: 591
+Building PAS...
+Average clusters audible: 674
+visdatasize:118792  compressed from 118976
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+PREP OK
+7996 faces
+23521418 square feet [3387084032.00 square inches]
+2 Displacements
+64625 Square Feet [9306112.00 Square Inches]
+7996 patches before subdivision
+584006 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 103452690, max 2557
+transfer lists: 789.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(752007, 730273, 686644)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(78308, 74122, 70439)
+Build Patch/Sample Hash Table(s).....Done<0.3791 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                171/16384        2052/196608   ( 1.0%) 
+brushsides            1171/163840       9368/1310720  ( 0.7%) 
+planes                 502/65536       10040/1310720  ( 0.8%) 
+vertexes              9038/65536      108456/786432   (13.8%) 
+nodes                 2146/65536       68672/2097152  ( 3.3%) 
+texinfos                53/12288        3816/884736   ( 0.4%) 
+texdata                 12/2048          384/65536    ( 0.6%) 
+dispinfos                2/0             352/0        ( 0.0%) 
+disp_verts              50/0            1000/0        ( 0.0%) 
+disp_tris               64/0             128/0        ( 0.0%) 
+disp_lmsamples       70560/0           70560/0        ( 0.0%) 
+faces                 7996/65536      447776/3670016  (12.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              529/65536       29624/3670016  ( 0.8%) 
+leaves                2148/65536       68736/2097152  ( 3.3%) 
+leaffaces            10002/65536       20004/131072   (15.3%) 
+leafbrushes           2112/65536        4224/131072   ( 3.2%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            37705/512000     150820/2048000  ( 7.4%) 
+edges                19527/256000      78108/1024000  ( 7.6%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            580/32768        5800/327680   ( 1.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8034/65536       16068/131072   (12.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]    18933528/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      118792/16777216 ( 0.7%) 
+entdata               [variable]        3536/393216   ( 0.9%) 
+LDR ambient table     2148/65536        8592/262144   ( 3.3%) 
+HDR ambient table     2148/65536        8592/262144   ( 3.3%) 
+LDR leaf ambient     14493/65536      405804/1835008  (22.1%) 
+HDR leaf ambient      2148/65536       60144/1835008  ( 3.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      150366/0        ( 0.0%) 
+physics               [variable]       64440/4194304  ( 1.5%) 
+physics terrain       [variable]         108/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 19567
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_fesiugstesting2\maps\gm_fesiugstesting2.bsp
+1 minute, 43 seconds elapsed
